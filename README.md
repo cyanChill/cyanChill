@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ### Currently Learning/Working With:
 <p> 
-  <a href="https://nextjs.org/" target="_blank" >
+  <a href="https://nextjs.org/">
     <img 
          src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/207px-Nextjs-logo.svg.png" 
          alt="NextJS" 
@@ -30,71 +30,71 @@ Here are some ideas to get you started:
   
 ### Languages & Technologies:
 <p> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" >
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
     <img 
          src="https://img.icons8.com/color/48/000000/html-5--v1.png"
          alt="HTML 5 Logo" 
     />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" >
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
     <img 
          src="https://img.icons8.com/color/48/000000/css3.png"
          alt="CSS 3 Logo" 
     />
   </a>
-  <a href="https://getbootstrap.com/" target="_blank" >
+  <a href="https://getbootstrap.com/">
     <img 
          img src="https://img.icons8.com/color/48/000000/bootstrap.png"
          alt="Bootstrap Logo" 
     />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" >
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img 
          src="https://img.icons8.com/color/48/000000/javascript--v1.png"
          alt="JavaScript Logo" 
     />
   </a>
-  <a href="https://reactjs.org/" target="_blank" >
+  <a href="https://reactjs.org/">
     <img 
          src="https://img.icons8.com/plasticine/100/000000/react.png"
          alt="React Logo" 
          height="48"
     />
   </a>
-  <a href="https://nodejs.dev/" target="_blank" >
+  <a href="https://nodejs.dev/">
     <img 
          src="https://img.icons8.com/color/48/000000/nodejs.png"
          alt="NodeJS Logo" 
     />
   </a>
-  <a href="https://git-scm.com/" target="_blank" >
+  <a href="https://git-scm.com/">
     <img 
          src="https://img.icons8.com/color/50/000000/git.png"
          alt="Git Logo" 
          height="48"
     />
   </a>
-  <a href="https://www.java.com/en/" target="_blank" >
+  <a href="https://www.java.com/en/">
     <img 
          src="https://img.icons8.com/color/50/000000/java-coffee-cup-logo--v1.png"
          alt="Java Logo" 
          height="48"
     />
   </a>
-  <a href="https://www.python.org/" target="_blank" >
+  <a href="https://www.python.org/">
     <img 
          src="https://img.icons8.com/color/50/000000/python--v1.png"
          alt="Python Logo" 
          height="48"
     />
   </a>
-  <a href="https://www.cplusplus.com/" target="_blank" >
+  <a href="https://www.cplusplus.com/">
     <img 
          src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"
          alt="C++ Logo" 
     />
   </a>
-  <a href="" target="_blank" >
+  <a href="">
     <img 
          src=""
          alt="" 
@@ -105,21 +105,21 @@ Here are some ideas to get you started:
   
 ### Databases:
 <p> 
-  <a href="https://www.mysql.com/" target="_blank" >
+  <a href="https://www.mysql.com/">
     <img 
          src="https://img.icons8.com/color/50/000000/mysql-logo.png" 
          alt="MySQL Logo" 
          height="48"
      />
   </a>
-  <a href="https://firebase.google.com/" target="_blank" >
+  <a href="https://firebase.google.com/">
     <img 
          src="https://img.icons8.com/color/50/000000/firebase.png"
          alt="Firebase Logo"
          height="48"
      />
   </a>
-  <a href="https://www.mongodb.com/" target="_blank" >
+  <a href="https://www.mongodb.com/">
     <img 
          src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png"
          alt="MongoDB Logo"
