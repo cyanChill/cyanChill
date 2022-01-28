@@ -42,6 +42,12 @@ Here are some ideas to get you started:
          alt="CSS 3 Logo" 
     />
   </a>
+  <a href="https://getbootstrap.com/" target="_blank" >
+    <img 
+         img src="https://img.icons8.com/color/48/000000/bootstrap.png"
+         alt="Bootstrap Logo" 
+    />
+  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" >
     <img 
          src="https://img.icons8.com/color/48/000000/javascript--v1.png"
@@ -55,10 +61,44 @@ Here are some ideas to get you started:
          height="48"
     />
   </a>
+  <a href="https://nodejs.dev/" target="_blank" >
+    <img 
+         src="https://img.icons8.com/color/48/000000/nodejs.png"
+         alt="NodeJS Logo" 
+    />
+  </a>
+  <a href="https://git-scm.com/" target="_blank" >
+    <img 
+         src="https://img.icons8.com/color/50/000000/git.png"
+         alt="Git Logo" 
+         height="48"
+    />
+  </a>
+  <a href="https://www.java.com/en/" target="_blank" >
+    <img 
+         src="https://img.icons8.com/color/50/000000/java-coffee-cup-logo--v1.png"
+         alt="Java Logo" 
+         height="48"
+    />
+  </a>
+  <a href="https://www.python.org/" target="_blank" >
+    <img 
+         src="https://img.icons8.com/color/50/000000/python--v1.png"
+         alt="Python Logo" 
+         height="48"
+    />
+  </a>
+  <a href="https://www.cplusplus.com/" target="_blank" >
+    <img 
+         src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"
+         alt="C++ Logo" 
+    />
+  </a>
   <a href="" target="_blank" >
     <img 
          src=""
          alt="" 
+         height="48"
     />
   </a>
 <p>
