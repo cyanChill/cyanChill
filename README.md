@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Skills and Technologies
+
+## 🚀 Skills and Technologies
 
 ### Currently Learning/Working With:
 <p> 
@@ -26,7 +27,7 @@ Here are some ideas to get you started:
          height="48"
     />
   </a>
-<p>
+</p>
   
 ### Languages & Technologies:
 <p> 
@@ -40,6 +41,12 @@ Here are some ideas to get you started:
     <img 
          src="https://img.icons8.com/color/48/000000/css3.png"
          alt="CSS 3 Logo" 
+    />
+  </a>
+  <a href="https://sass-lang.com/">
+    <img 
+         src="https://img.icons8.com/color/48/000000/sass.png"
+         alt="SASS Logo" 
     />
   </a>
   <a href="https://getbootstrap.com/">
@@ -101,7 +108,7 @@ Here are some ideas to get you started:
          height="48"
     />
   </a>
-<p>
+</p>
   
 ### Databases:
 <p> 
@@ -126,5 +133,27 @@ Here are some ideas to get you started:
          height="48"
      />
   </a>
-<p>
-  
+</p>
+
+
+## 📊 My Github Stats
+
+<div align="center">
+    <a href="https://github.com/cyanChill/github-readme-stats">
+      <img 
+           alt="cyanChill's Github Stats" 
+           src="https://github-readme-stats.vercel.app/api?username=cyanChill&show_icons=true&count_private=true&theme=jolly&hide_border=true" 
+           height="200"
+       />
+  </a>
+  <a href="https://github.com/cyanChill/github-readme-stats">
+    <img 
+         alt="cyanChill's Top Languages" 
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyanChill&langs_count=8&count_private=true&layout=compact&theme=jolly&hide_border=true" 
+         height="200"
+         />
+  </a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</div>
+
