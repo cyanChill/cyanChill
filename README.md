@@ -143,14 +143,14 @@ Here are some ideas to get you started:
       <img 
            alt="cyanChill's Github Stats" 
            src="https://github-readme-stats.vercel.app/api?username=cyanChill&show_icons=true&count_private=true&theme=jolly&hide_border=true" 
-           height="200"
+           height="175"
        />
   </a>
   <a href="https://github.com/cyanChill/github-readme-stats">
     <img 
          alt="cyanChill's Top Languages" 
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyanChill&langs_count=8&count_private=true&layout=compact&theme=jolly&hide_border=true" 
-         height="200"
+         height="175"
          />
   </a>
   <br/>
