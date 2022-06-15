@@ -149,20 +149,20 @@ Here are some ideas to get you started:
 ## 📊 My Github Stats
 
 <div align="center">
-    <a href="https://github.com/cyanChill/github-readme-stats">
-      <img 
-           alt="cyanChill's Github Stats" 
-           src="https://github-readme-stats.vercel.app/api?username=cyanChill&show_icons=true&count_private=true&theme=jolly&hide_border=true" 
-           height="175"
-       />
-  </a>
-  <a href="https://github.com/cyanChill/github-readme-stats">
+  <span>
+    <img 
+         alt="cyanChill's Github Stats" 
+         src="https://github-readme-stats.vercel.app/api?username=cyanChill&show_icons=true&count_private=true&theme=jolly&hide_border=true" 
+         height="175"
+     />
+  </span>
+  <span>
     <img 
          alt="cyanChill's Top Languages" 
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyanChill&langs_count=8&count_private=true&layout=compact&theme=jolly&hide_border=true" 
          height="175"
          />
-  </a>
+  </span>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </div>
