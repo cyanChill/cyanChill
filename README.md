@@ -68,10 +68,18 @@ Here are some ideas to get you started:
          height="48"
     />
   </a>
-  <a href="https://nodejs.dev/">
+  <a href="https://expressjs.com/">
     <img 
          src="https://img.icons8.com/color/48/000000/nodejs.png"
-         alt="NodeJS Logo" 
+         alt="Express Logo" 
+    />
+  </a>
+  <a href="https://nodejs.dev/">
+    <img 
+         src="https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169185.png"
+         alt="NodeJS Logo"
+         width="48"
+         height="48"
     />
   </a>
   <a href="https://git-scm.com/">
