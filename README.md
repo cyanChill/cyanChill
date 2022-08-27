@@ -43,22 +43,28 @@ Here are some ideas to get you started:
          alt="CSS 3 Logo" 
     />
   </a>
-  <a href="https://sass-lang.com/">
-    <img 
-         src="https://img.icons8.com/color/48/000000/sass.png"
-         alt="SASS Logo" 
-    />
-  </a>
   <a href="https://getbootstrap.com/">
     <img 
          img src="https://img.icons8.com/color/48/000000/bootstrap.png"
          alt="Bootstrap Logo" 
     />
   </a>
+    <a href="https://sass-lang.com/">
+    <img 
+         src="https://img.icons8.com/color/48/000000/sass.png"
+         alt="SASS Logo" 
+    />
+  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img 
          src="https://img.icons8.com/color/48/000000/javascript--v1.png"
          alt="JavaScript Logo" 
+    />
+  </a>
+  <a href="https://www.typescriptlang.org/">
+    <img 
+         src="https://img.icons8.com/color/48/000000/typescript--v1.png"
+         alt="TypeScript Logo" 
     />
   </a>
   <a href="https://reactjs.org/">
@@ -72,6 +78,13 @@ Here are some ideas to get you started:
     <img 
          src="https://img.icons8.com/color/48/000000/nodejs.png"
          alt="Express Logo" 
+    />
+  </a>
+  <a href="https://pugjs.org/">
+    <img 
+         src="https://cdn.rawgit.com/pugjs/pug-logo/eec436cee8fd9d1726d7839cbe99d1f694692c0c/SVG/pug-final-logo-_-colour-128.svg"
+         alt="Pug Logo" 
+         height="48"
     />
   </a>
   <a href="https://nodejs.dev/">
