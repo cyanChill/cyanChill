@@ -180,7 +180,7 @@ Here are some ideas to get you started:
   <span>
     <img 
          alt="cyanChill's Top Languages" 
-         src="https://github-readme-stats-six-ebon.vercel.app/api/top-langs/?username=cyanChill&langs_count=8&count_private=true&layout=compact&theme=jolly&hide_border=true" 
+         src="https://github-readme-stats-six-ebon.vercel.app/api/top-langs/?username=cyanChill&exclude_repo=github-readme-stats&langs_count=8&count_private=true&layout=compact&theme=jolly&hide_border=true" 
          height="175"
          />
   </span>
