@@ -19,10 +19,11 @@ I'm a **Full-Stack Developer** from Brooklyn, NY.
 
 🌐[My Portfolio Site](https://www.cyanchill.com/)
 
+
 ## 🌱 I’m currently learning:
-
+<!--
 [![T3 Stack][T3 Stack]][T3 Stack-url]
-
+-->
 
 ## 🚀 Technologies & Tools
 
