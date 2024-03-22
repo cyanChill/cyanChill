@@ -142,7 +142,7 @@ I'm a **Full-Stack Developer** from Brooklyn, NY.
 [Python-url]: https://www.python.org/
 [React]: https://img.shields.io/badge/React-222222?style=for-the-badge&logo=React&logoColor=61DAFB
 [React-url]: https://react.dev/
-[React Native]: https://img.shields.io/badge/React-222222?style=for-the-badge&logo=React&logoColor=61DAFB
+[React Native]: https://img.shields.io/badge/React_Native-222222?style=for-the-badge&logo=React&logoColor=61DAFB
 [React Native-url]: https://reactnative.dev/
 [Render]: https://img.shields.io/badge/Render-222222?style=for-the-badge&logo=Render&logoColor=46E3B7
 [Render-url]: https://render.com/
