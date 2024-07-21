@@ -11,7 +11,7 @@ I'm a **Full-Stack Web Developer** from Brooklyn, NY that's also building **Reac
   - [@missingcore/audio-metadata](https://github.com/MissingCore/audio-metadata): A package for getting metadata from audio files in React Native and Node.js.
 - [Caerula](https://github.com/cyanChill/Caerula): A fun little website for viewing information about Arknights.
 
-## 🛠️ I'm currently build apps with ...
+## 🛠️ I'm currently building apps with ...
 
 [<img src="./assets/TypeScript.png" width="48" />](https://www.typescriptlang.org/)
 [<img src="./assets/React.png" width="48" />](https://react.dev/)
