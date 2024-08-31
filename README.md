@@ -18,6 +18,7 @@ I'm a **Full-Stack Web Developer** from Brooklyn, NY that's also building **Reac
 [<img src="./assets/React.png" alt="React — Front-end Web & Native UI Library" width="48" />](https://react.dev/)
 [<img src="./assets/Next.js.png" alt="Next.js — Web Development Framework" width="48" />](https://nextjs.org/)
 [<img src="./assets/Expo.png" alt="Expo — Universal Native Apps Framework" width="48" />](https://expo.dev/)
+[<img src="./assets/Astro.png" alt="Astro — Web Framework for Content-Driven Websites." width="48" />](https://astro.build/)
 [<img src="./assets/Jotai.png" alt="Jotai — Primitive & Flexible State Management" width="48" />](https://jotai.org/)
 [<img src="./assets/React Query.png" alt="React Query — Asynchronous State Manager" width="48" />](https://tanstack.com/query/latest)
 [<img src="./assets/Tailwind CSS.png" alt="Tailwind CSS — CSS Framework" width="48" />](https://tailwindcss.com/)
