@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm a **Full-Stack Web Developer** from Brooklyn, NY that's also building **React Native apps on Android**.
+I'm a **Full-Stack Web Developer** from Brooklyn, NY that's also building **React Native apps for Android**.
 
 🌐[My Portfolio Site](https://www.cyanchill.com/)
 
