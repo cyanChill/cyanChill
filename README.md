@@ -31,7 +31,7 @@ I'm a **Full-Stack Web Developer** from Brooklyn, NY that's also building **Reac
 [<img src="./assets/GitHub.png" alt="GitHub" width="48" />](https://github.com/)
 [<img src="./assets/VSCode.png" alt="Visual Studio Code" width="48" />](https://code.visualstudio.com/)
 
-### I've also use ...
+### I've also used ...
 
 [<img src="./assets/HTML.png" alt="Hypertext Markup Language" width="48" />](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [<img src="./assets/CSS.png" alt="Cascading Style Sheets" width="48" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
