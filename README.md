@@ -20,6 +20,7 @@ I'm a **Full-Stack Web Developer** from Brooklyn, NY that's also building **Reac
 [<img src="./assets/Expo.png" alt="Expo — Universal Native Apps Framework" width="48" />](https://expo.dev/)
 [<img src="./assets/Astro.png" alt="Astro — Web Framework for Content-Driven Websites." width="48" />](https://astro.build/)
 [<img src="./assets/Jotai.png" alt="Jotai — Primitive & Flexible State Management" width="48" />](https://jotai.org/)
+[<img src="./assets/Zustand.png" alt="Zustand — Bare necessities for State Management in React" width="48" />](https://zustand.docs.pmnd.rs/)
 [<img src="./assets/React Query.png" alt="React Query — Asynchronous State Manager" width="48" />](https://tanstack.com/query/latest)
 [<img src="./assets/Tailwind CSS.png" alt="Tailwind CSS — CSS Framework" width="48" />](https://tailwindcss.com/)
 [<img src="./assets/Drizzle.png" alt="Drizzle — TypeScript ORM" width="48" />](https://orm.drizzle.team/)
