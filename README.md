@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm a **Full-Stack Web Developer** from Brooklyn, NY that's also building **React Native apps for Android**.
+I'm a Software Engineer that started off learning **Full-Stack Web Development**, followed by a bit of **Mobile Development** with **React Native**, and am currently learning **Data Science**.
 
 🌐[My Portfolio Site](https://www.cyanchill.com/)
 
