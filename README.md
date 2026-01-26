@@ -8,7 +8,8 @@ I'm a Software Engineer that's currently building and maintaining web applicatio
 
 - React Native content on [MissingCore](https://github.com/MissingCore) such as:
   - [Music](https://github.com/MissingCore/Music): A Nothing inspired music player.
-  - [@missingcore/react-native-metadata-retriever](https://github.com/MissingCore/react-native-metadata-retriever): A successor to `@missingcore/audio-metadata` which utilizes Android's built-in metadata reader for better performance.
+  - [@missingcore/react-native-metadata-retriever](https://github.com/MissingCore/react-native-metadata-retriever): A successor to [`@missingcore/audio-metadata`](https://github.com/MissingCore/audio-metadata) which utilizes Android's built-in metadata reader for better performance.
+  - [react-native-draglist](https://github.com/MissingCore/react-native-draglist): A fork of [`react-native-draglist`](https://github.com/fivecar/react-native-draglist) which adds support for [`@shopify/flash-list`](https://github.com/Shopify/flash-list).
 
 ## 🛠️ I'm currently building apps with ...
 
