@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm a Software Engineer that's currently building and maintaining web & mobile applications using React, React Native, and TypeScript.
+I'm a Frontend-focused Full Stack Engineer specializing in building web & mobile applications with React, React Native, and TypeScript.
 
 🌐[My Portfolio Site](https://www.cyanchill.com/)
 
